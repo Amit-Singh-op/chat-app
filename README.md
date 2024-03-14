@@ -36,10 +36,3 @@ The frontend is deployed and accessible at the following URL:
 
 Since the frontend is built using static files, you can simply open the `index.html` file in your web browser to run it locally. Alternatively, you can use a local server like `http-server` or `live-server`.
 
-## Contributing
-
-If you would like to contribute to this project, please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
