@@ -1,4 +1,4 @@
-# Project Name
+# WEB APP
 
 This project consists of two main components: a backend and a frontend.
 
